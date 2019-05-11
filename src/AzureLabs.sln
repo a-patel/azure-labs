@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.Storage.Blob", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.Relays", "AzureLabs.Relays\AzureLabs.Relays.csproj", "{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.RedisCache", "AzureLabs.RedisCache\AzureLabs.RedisCache.csproj", "{BFB4FA09-5733-4D57-86AA-CF922CE5E36C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB4FA09-5733-4D57-86AA-CF922CE5E36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB4FA09-5733-4D57-86AA-CF922CE5E36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB4FA09-5733-4D57-86AA-CF922CE5E36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB4FA09-5733-4D57-86AA-CF922CE5E36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
