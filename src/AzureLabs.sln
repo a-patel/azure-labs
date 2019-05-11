@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.Storage.Queue", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.Storage.Blob", "AzureLabs.Storage.Blob\AzureLabs.Storage.Blob.csproj", "{B3ACB141-E953-45BC-999B-8B0DD042F676}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLabs.Relays", "AzureLabs.Relays\AzureLabs.Relays.csproj", "{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B3ACB141-E953-45BC-999B-8B0DD042F676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3ACB141-E953-45BC-999B-8B0DD042F676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3ACB141-E953-45BC-999B-8B0DD042F676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12C2B6-9CAB-4BE7-85F2-7D9C26F70B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
