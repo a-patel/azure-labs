@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AzureLabs.ServiceBus\AzureLabs.ServiceBus.csproj" />
+    <ProjectReference Include="..\AzureLabs.Storage.Blob\AzureLabs.Storage.Blob.csproj" />
     <ProjectReference Include="..\AzureLabs.Storage.Queue\AzureLabs.Storage.Queue.csproj" />
   </ItemGroup>
 
