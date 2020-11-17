@@ -5,7 +5,17 @@
 Azure Services implementaions in ASP.NET Core/.NET 5.x
 
 
+
+[Awesome Azure](https://medium.com/awesome-azure) - Azure blogs! The must-read publication for aspiring Azure developers & DevOps enthusiasts!
+
+
+
+
+
 ---
+
+
+## Azure Labs
 
 
 
